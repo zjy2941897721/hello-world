@@ -1,0 +1,4 @@
+ssh -T git@github.com
+Hi linuxfan360! You've successfully authenticated, but GitHub does not provide shell access.（验证成功）
+git init  ##初始git
+git config -e  ##编辑origin
